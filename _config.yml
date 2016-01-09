@@ -1,14 +1,26 @@
-layout_spectrum: 0.9774979
-typography_spectrum: 0.9186857
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.1654573
-  lightness: 0.2345165
   brandStrength: 0.8641245
+  rhythmicContrast: 0.1231236
   brandColors:
     - '#CDB39C'
     - '#140F0E'
     - '#C6381E'
     - '#533A28'
     - '#C5775E'
-  rhythmicContrast: 0.1231236
+  lightness: 0.2345165
+typography_spectrum: 0.3216971
+layout_spectrum: 0.08861437
 name: 'Unrealisticallybig '
