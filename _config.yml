@@ -1,7 +1,7 @@
 name: 'Unrealisticallybig '
 favicon: null
-layout_spectrum: 0.08861437
-typography_spectrum: 0.3216971
+layout_spectrum: 0.24623
+typography_spectrum: 0.28605
 collections:
   - index:
       path: /
