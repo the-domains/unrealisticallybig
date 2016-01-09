@@ -1,0 +1,14 @@
+layout_spectrum: 0.9774979
+typography_spectrum: 0.9186857
+color:
+  saturation: 0.1654573
+  lightness: 0.2345165
+  brandStrength: 0.8641245
+  brandColors:
+    - '#CDB39C'
+    - '#140F0E'
+    - '#C6381E'
+    - '#533A28'
+    - '#C5775E'
+  rhythmicContrast: 0.1231236
+name: 'Unrealisticallybig '
