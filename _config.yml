@@ -1,3 +1,7 @@
+name: 'Unrealisticallybig '
+favicon: null
+layout_spectrum: 0.08861437
+typography_spectrum: 0.3216971
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Unrealistically Big 2016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1654573
-  brandStrength: 0.8641245
-  rhythmicContrast: 0.1231236
   brandColors:
     - '#CDB39C'
     - '#140F0E'
     - '#C6381E'
     - '#533A28'
     - '#C5775E'
+  brandStrength: 0.8641245
   lightness: 0.2345165
-typography_spectrum: 0.3216971
-layout_spectrum: 0.08861437
-name: 'Unrealisticallybig '
+  saturation: 0.1654573
+  rhythmicContrast: 0.1231236
+purpose: []
